@@ -1094,7 +1094,8 @@
       "properties": {
         "WARD_NO": 5,
         "DISPLAY_NAME": "AREA_5",
-        "WARD_NAME": "AREA_5"
+        "WARD_NAME": "AREA_5",
+        "MOVEMENT_ID": 5
       },
       "geometry": {
         "type": "Polygon",
@@ -1353,7 +1354,8 @@
       "properties": {
         "WARD_NO": 6,
         "DISPLAY_NAME": "AREA_6",
-        "WARD_NAME": "AREA_6"
+        "WARD_NAME": "AREA_6",
+        "MOVEMENT_ID": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -1644,7 +1646,8 @@
       "properties": {
         "WARD_NO": 7,
         "DISPLAY_NAME": "AREA_7",
-        "WARD_NAME": "AREA_7"
+        "WARD_NAME": "AREA_7",
+        "MOVEMENT_ID": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -2031,7 +2034,8 @@
       "properties": {
         "WARD_NO": 8,
         "DISPLAY_NAME": "AREA_8",
-        "WARD_NAME": "AREA_8"
+        "WARD_NAME": "AREA_8",
+        "MOVEMENT_ID": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -2254,7 +2258,8 @@
       "properties": {
         "WARD_NO": 9,
         "DISPLAY_NAME": "AREA_9",
-        "WARD_NAME": "AREA_9"
+        "WARD_NAME": "AREA_9",
+        "MOVEMENT_ID": 9
       },
       "geometry": {
         "type": "Polygon",
@@ -2693,7 +2698,8 @@
       "properties": {
         "WARD_NO": 10,
         "DISPLAY_NAME": "AREA_10",
-        "WARD_NAME": "AREA_10"
+        "WARD_NAME": "AREA_10",
+        "MOVEMENT_ID": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -2936,7 +2942,8 @@
       "properties": {
         "WARD_NO": 11,
         "DISPLAY_NAME": "LAKE_PICHOLA",
-        "WARD_NAME": "AREA_11"
+        "WARD_NAME": "AREA_11",
+        "MOVEMENT_ID": 11
       },
       "geometry": {
         "type": "Polygon",
@@ -3467,7 +3474,8 @@
       "properties": {
         "WARD_NO": 12,
         "DISPLAY_NAME": "AREA_11",
-        "WARD_NAME": "AREA_12"
+        "WARD_NAME": "AREA_12",
+        "MOVEMENT_ID": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -3846,7 +3854,8 @@
       "properties": {
         "WARD_NO": 13,
         "DISPLAY_NAME": "AREA_12",
-        "WARD_NAME": "AREA_13"
+        "WARD_NAME": "AREA_13",
+        "MOVEMENT_ID": 13
       },
       "geometry": {
         "type": "Polygon",
@@ -4377,7 +4386,8 @@
       "properties": {
         "WARD_NO": 14,
         "DISPLAY_NAME": "BADI LAKE",
-        "WARD_NAME": "AREA_14"
+        "WARD_NAME": "AREA_14",
+        "MOVEMENT_ID": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -4692,7 +4702,8 @@
       "properties": {
         "WARD_NO": 15,
         "DISPLAY_NAME": "FATHE SAGAR LAKE",
-        "WARD_NAME": "AREA_15"
+        "WARD_NAME": "AREA_15",
+        "MOVEMENT_ID": 15
       },
       "geometry": {
         "type": "Polygon",
@@ -5027,7 +5038,8 @@
       "properties": {
         "WARD_NO": 16,
         "DISPLAY_NAME": "AREA_13",
-        "WARD_NAME": "AREA_16"
+        "WARD_NAME": "AREA_16",
+        "MOVEMENT_ID": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -5358,7 +5370,8 @@
       "properties": {
         "WARD_NO": 17,
         "DISPLAY_NAME": "AREA_14",
-        "WARD_NAME": "AREA_17"
+        "WARD_NAME": "AREA_17",
+        "MOVEMENT_ID": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -5565,7 +5578,8 @@
       "properties": {
         "WARD_NO": 18,
         "DISPLAY_NAME": "AREA_15",
-        "WARD_NAME": "AREA_18"
+        "WARD_NAME": "AREA_18",
+        "MOVEMENT_ID": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -5824,7 +5838,8 @@
       "properties": {
         "WARD_NO": 19,
         "DISPLAY_NAME": "AREA_16",
-        "WARD_NAME": "AREA_19"
+        "WARD_NAME": "AREA_19",
+        "MOVEMENT_ID": 19
       },
       "geometry": {
         "type": "Polygon",
@@ -6219,7 +6234,8 @@
       "properties": {
         "WARD_NO": 20,
         "DISPLAY_NAME": "AREA_17",
-        "WARD_NAME": "AREA_20"
+        "WARD_NAME": "AREA_20",
+        "MOVEMENT_ID": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -6446,7 +6462,8 @@
       "properties": {
         "WARD_NO": 21,
         "DISPLAY_NAME": "AREA_18",
-        "WARD_NAME": "AREA_21"
+        "WARD_NAME": "AREA_21",
+        "MOVEMENT_ID": 21
       },
       "geometry": {
         "type": "Polygon",
@@ -6601,7 +6618,8 @@
       "properties": {
         "WARD_NO": 22,
         "DISPLAY_NAME": "AREA_19",
-        "WARD_NAME": "AREA_22"
+        "WARD_NAME": "AREA_22",
+        "MOVEMENT_ID": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -6804,7 +6822,8 @@
       "properties": {
         "WARD_NO": 23,
         "WARD_NAME": "AREA_23",
-        "DISPLAY_NAME": "AREA_20"
+        "DISPLAY_NAME": "AREA_20",
+        "MOVEMENT_ID": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -6935,7 +6954,8 @@
       "properties": {
         "WARD_NO": 24,
         "WARD_NAME": "AREA_24",
-        "DISPLAY_NAME": "AREA_21"
+        "DISPLAY_NAME": "AREA_21",
+        "MOVEMENT_ID": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -7150,7 +7170,8 @@
       "properties": {
         "WARD_NO": 25,
         "WARD_NAME": "AREA_25",
-        "DISPLAY_NAME": "AREA_22"
+        "DISPLAY_NAME": "AREA_22",
+        "MOVEMENT_ID": 25
       },
       "geometry": {
         "type": "Polygon",
